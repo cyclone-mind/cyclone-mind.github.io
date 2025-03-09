@@ -8,6 +8,10 @@ dist/
 .cache/
 .temp/
 
+# 缓存
+.docs/vitepress/cache/
+.docs/vitepress/dist/
+
 # Global templates (根据需要添加)
 
 .vscode/*
