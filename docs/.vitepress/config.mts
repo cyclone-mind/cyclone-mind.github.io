@@ -4,7 +4,7 @@ import {nav} from './nav'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Shouyu/",
+  base: "/",
   title: "Shouyu",
   description: "Shouyu's Journey",
   themeConfig: {
