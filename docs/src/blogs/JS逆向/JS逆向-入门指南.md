@@ -91,7 +91,7 @@ response = requests.get("https://api.example.com/data", headers=headers)
 
 ## 学习资源推荐
 
-- **视频教程**：B站《JS逆向入门到接单》[[7]]（实战导向）
+- **视频教程**：B站《JS逆向入门到接单》（实战导向）
 - **博客文章**：CSDN 的 Python 爬虫 JS 逆向详解
 - **开源项目**：GitHub/Gitee 的爬虫合集 （含逆向案例）
 

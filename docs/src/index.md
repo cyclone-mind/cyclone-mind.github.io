@@ -13,7 +13,7 @@ hero:
       link: /about
     - theme: alt
       text: JS 逆向
-      link: /blogs/JS逆向/JS逆向-某招标公告搜索引擎
+      link: /blogs/JS逆向/JS逆向-入门指南
 
 features:
   - title: Feature A

@@ -18,7 +18,8 @@ export const sidebar= {
                     collapsed: false,
                     items: [
                         {text: 'JS逆向-入门指南', link: '/blogs/JS逆向/JS逆向-入门指南'},
-                        {text: 'JS逆向-某招标公告搜索引擎', link: '/blogs/JS逆向/JS逆向-某招标公告搜索引擎'}
+                        {text: 'JS逆向-某招标公告搜索引擎', link: '/blogs/JS逆向/JS逆向-某招标公告搜索引擎'},
+                        {text: 'JS逆向-某公共政策大数据平台', link: '/blogs/JS逆向/JS逆向-某公共政策大数据平台'}
                     ]
                 },
             ],
