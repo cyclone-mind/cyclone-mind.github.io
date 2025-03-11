@@ -1,14 +1,14 @@
 ---
 outline: deep
 nav:
-  - title: 首页
+  - title: About
     link: /
 ---
 
 
 # 个人简介  
 
-**计算机科学学生 & 全栈开发者**  
+**GISer & 全栈开发者**  
 
 就读于 上海师范大学 地图学与地理信息系统专业。热衷于通过代码将创意转化为实际解决方案，相信真正的科技可以改变生活。借用雷军的一句话“人生从来不是爽文，而是不断突围的历程。靠什么披荆斩棘？我的答案是 勇气”。很高兴以这种方式见到你！👋🏻。
 
@@ -16,10 +16,11 @@ nav:
 
 ## 技能标签
 
-- **前端**: Vue.js, TypeScript, tailwind, Bootstrap, 响应式设计  
-- **后端**: Python, FastAPI, 数据库设计  
+- **前端**: Vue.js, TypeScript, tailwind, Bootstrap, 
+- **后端**: Python, FastAPI, Mysql, Milvus 
 - **AI**: Langchain, RAG, Pytorch
-- **工具链**: Git, Docker, AWS, Figma  
+- **工具链**: Git, Docker, QGIS, Lightroom, GEE
+- **数据科学**：R, BI,  
 
 ---
 
@@ -34,7 +35,7 @@ nav:
 ## 兴趣方向
 
 - 开源项目贡献  
-- 参与和鲸竞赛  
+- 参与 kaggle 竞赛  
 - 探索 AI/ML 的落地应用  
 
-> “代码如幽默，需要解释就说明不够好。” —— 科里·豪斯
+> “大多数优秀的程序员从事编程工作，不是因为期望获得报酬或得到公众的称赞，而是因为编程是件有趣的事儿。”——[林纳斯·托瓦兹](https://github.com/torvalds)（Linus Torvalds）

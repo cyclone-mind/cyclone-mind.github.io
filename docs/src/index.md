@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Shouyu"
   text: "Shouyu's Journey"
-  tagline: 'A GIS student ✦ Full-Stack Dev ✦ at Shanghai Normal University Turning caffeine into code since 2023.'
+  tagline: 'A ✦ Full-Stack Dev ✦ GISer at Shanghai Normal University Turning caffeine into code since 2023.'
 
   actions:
     - theme: brand
