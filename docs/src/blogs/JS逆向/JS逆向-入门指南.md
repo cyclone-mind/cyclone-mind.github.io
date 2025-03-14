@@ -54,7 +54,7 @@ JS 逆向（JavaScript Reverse Engineering）指通过分析网页中 JavaScript
 
 ### 步骤 2：提取并复现加密逻辑
 
-将关键代码复制到本地，用 `PyExecJS` 执行：
+理解加密逻辑，就是用MD5：
 
 ```python
 from hashlib import md5
