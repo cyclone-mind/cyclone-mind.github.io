@@ -40,6 +40,11 @@ export const sidebar = {
             },
           ],
         },
+        {
+          text: "WSL2",
+          collapsed: false,
+          items: [{ text: "配置 WSL2 开发环境", link: "/blogs/配置WSL2开发环境" }],
+        },
       ],
     },
   ],

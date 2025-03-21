@@ -15,5 +15,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/CycloneMind' }
     ]
   },
-  srcDir: './src'
+  srcDir: './src',
+  lastUpdated: true
 })
