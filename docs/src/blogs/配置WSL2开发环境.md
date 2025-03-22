@@ -285,11 +285,20 @@ source ~/.bashrc
 source ~/.zshrc
 ```
 
- 如果 WSL 命令提示符前出现 *(base)* 即代表配置成功
+ 如果 WSL 命令提示符前出现 *(base)* 即代表配置成功。
 
 具体的 conda 命令这里不再赘述。
 
-## 8 参考资料
+## 8 添加环境变量
+
+这里添加环境变量，以 zsh 和 node 为例。
+
+```bash
+echo "export PATH=$PATH:/home/adduser/.nvm/versions/node/v22.14.0/bin" >> ~/.zshrc
+source ~/.zshrc
+```
+
+## 9 参考资料
 
 1. [安装 WSL | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/install)
 2. [在 WSL 上使用 Linux GUI 应用 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/tutorials/gui-apps)

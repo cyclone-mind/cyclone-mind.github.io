@@ -12,7 +12,7 @@ export default defineConfig({
     nav,
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/CycloneMind' }
+      { icon: 'github', link: 'https://github.com/cyclone-mind' }
     ]
   },
   srcDir: './src',
