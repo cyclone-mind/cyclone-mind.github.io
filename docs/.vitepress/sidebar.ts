@@ -28,6 +28,10 @@ export const sidebar = {
               text: "JS逆向-某公共政策大数据平台",
               link: "/blogs/JS逆向/JS逆向-某公共政策大数据平台",
             },
+            {
+              text:"JS逆向-某电子税务局",
+              link:"/blogs/JS逆向/JS逆向-某电子税务局"
+            }
           ],
         },
         {
