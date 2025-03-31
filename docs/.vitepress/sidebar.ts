@@ -31,6 +31,10 @@ export const sidebar = {
             {
               text:"JS逆向-某电子税务局",
               link:"/blogs/JS逆向/JS逆向-某电子税务局"
+            },
+            {
+              text:"JS逆向之某日漫网站",
+              link:"/blogs/JS逆向/JS逆向之某日漫网站"
             }
           ],
         },
