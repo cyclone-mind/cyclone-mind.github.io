@@ -49,9 +49,18 @@ export const sidebar = {
           ],
         },
         {
-          text: "WSL2",
+          text: "Web 开发",
           collapsed: false,
-          items: [{ text: "配置 WSL2 开发环境", link: "/blogs/配置WSL2开发环境" }],
+          items: [
+            { 
+              text: "配置 WSL2 开发环境", 
+              link: "/blogs/Web 开发/配置WSL2开发环境" 
+            },
+            {
+              text:"FastAPI",
+              link:"/blogs/Web 开发/FastAPI"
+            }
+          ],
         },
       ],
     },

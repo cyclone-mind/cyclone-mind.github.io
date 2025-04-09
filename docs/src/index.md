@@ -12,7 +12,7 @@ hero:
       text: About Me
       link: /about
     - theme: alt
-      text: JS 逆向
+      text: 随便看看
       link: /blogs/JS逆向/JS逆向-入门指南
 
 features:
