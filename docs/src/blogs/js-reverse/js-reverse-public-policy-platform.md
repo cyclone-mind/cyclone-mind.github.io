@@ -1,7 +1,8 @@
 ---
 outline: deep
+title: 全国公共政策大数据平台
 ---
-# 全国公共政策大数据平台
+# {{ $frontmatter.title }}
 
 网址：aHR0cHM6Ly93d3cuc3BvbGljeS5jb20v
 

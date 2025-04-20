@@ -1,9 +1,13 @@
 ---
-title: Shanghai monments
-nav:
-  - title: 首页
-    link: /
+title: 上海时刻
+outline: deep
+date: 2024-01-15
+description: 记录上海的日常与特别时刻
+tags: [摄影, 上海, 城市]
+author: shouyu
 ---
+
+# {{ $frontmatter.title }}
 
 ## 上海街头风景：镜头下的城市记忆  
 

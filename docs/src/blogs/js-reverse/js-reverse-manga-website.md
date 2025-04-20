@@ -1,5 +1,6 @@
 ---
 outline: deep
+title: JS逆向之某日漫网站
 ---
 # JS逆向之某日漫网站
 

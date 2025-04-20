@@ -1,7 +1,6 @@
 ---
 outline: deep
-# JavaScript 逆向入门指南：爬虫的加密参数破解
-
+title: JavaScript 逆向入门指南：爬虫的加密参数破解
 ---
 
 # 什么是 JS 逆向？
@@ -134,7 +133,7 @@ print(response.text)
 - **技术核心**：结合行为分析（如鼠标轨迹、点击压力）、生物特征（如滑动速度）和 AI 风险评分，生成动态验证码。  
 - **示例**：  
   - **极验（Geetest）**：第三代滑块验证码需模拟人类拖动轨迹（先加速后减速），并破解 `gt`、`challenge` 参数的加密逻辑。  
-  - **顶象（DingXiang）**：通过 `XSS` 防御和 `WebAssembly` 实现的无感验证（如 “文字点选”），需逆向其 `dx.js` 中的算法。
+  - **顶象（DingXiang）**：通过 `XSS` 防御和 `WebAssembly` 实现的无感验证（如 "文字点选"），需逆向其 `dx.js` 中的算法。
 
 ---
 
@@ -168,4 +167,4 @@ print(response.text)
 
 - **视频教程**：[【无逆向难爬虫】爬虫高手进阶之路](https://www.bilibili.com/video/BV1TC1jYmEve/?spm_id_from=333.337.search-card.all.click&vd_source=71beaef8d872c2161ac554f70f830f20)
 - **资源汇总**：[虫盒](https://spiderbox.cn/)、[吾爱破解](https://www.52pojie.cn/)
-- **开源项目**：[learn_python3_spider](https://github.com/wistbean/learn_python3_spider)、[CrawlerToturial](https://github.com/NanmiCoder/CrawlerTutorial)、[CrawlerWorks](https://github.com/CycloneMind/CrawlerWorks)
+- **开源项目**：[learn_python3_spider](https://github.com/wistbean/learn_python3_spider)、[CrawlerToturial](https://github.com/NanmiCoder/CrawlerTutorial)、[CrawlerWorks](https://github.com/CycloneMind/CrawlerWorks) 

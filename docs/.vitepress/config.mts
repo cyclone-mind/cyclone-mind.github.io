@@ -7,11 +7,14 @@ import { nav } from "./nav";
 export default defineConfig({
   base: "/",
   title: "Shouyu",
+  
   description: "Shouyu's Journey",
   themeConfig: {
+    logo: "/favicon.png",
     // https://vitepress.dev/reference/default-theme-config
     nav,
     sidebar,
+    outlineTitle: '本页目录',
     socialLinks: [{ icon: "github", link: "https://github.com/cyclone-mind" }],
   },
   srcDir: "./src",

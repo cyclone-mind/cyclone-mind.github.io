@@ -19,22 +19,22 @@ export const sidebar = {
           text: "JS逆向",
           collapsed: false,
           items: [
-            { text: "JS逆向-入门指南", link: "/blogs/JS逆向/JS逆向-入门指南" },
+            { text: "JS逆向-入门指南", link: "/blogs/js-reverse/js-reverse-guide" },
             {
               text: "JS逆向-某招标公告搜索引擎",
-              link: "/blogs/JS逆向/JS逆向-某招标公告搜索引擎",
+              link: "/blogs/js-reverse/js-reverse-bidding-search-engine",
             },
             {
               text: "JS逆向-某公共政策大数据平台",
-              link: "/blogs/JS逆向/JS逆向-某公共政策大数据平台",
+              link: "/blogs/js-reverse/js-reverse-public-policy-platform",
             },
             {
               text:"JS逆向-某电子税务局",
-              link:"/blogs/JS逆向/JS逆向-某电子税务局"
+              link:"/blogs/js-reverse/js-reverse-e-tax-bureau"
             },
             {
               text:"JS逆向之某日漫网站",
-              link:"/blogs/JS逆向/JS逆向之某日漫网站"
+              link:"/blogs/js-reverse/js-reverse-manga-website"
             }
           ],
         },
@@ -44,7 +44,7 @@ export const sidebar = {
           items: [
             {
               text: "发布 npm 到 github pages",
-              link: "/blogs/github/发布 npm 到 github pages",
+              link: "/blogs/github/publish-npm-to-github-pages",
             },
           ],
         },
@@ -54,11 +54,11 @@ export const sidebar = {
           items: [
             { 
               text: "配置 WSL2 开发环境", 
-              link: "/blogs/Web 开发/配置WSL2开发环境" 
+              link: "/blogs/web-dev/setup-wsl2-dev-environment" 
             },
             {
               text:"FastAPI",
-              link:"/blogs/Web 开发/FastAPI"
+              link:"/blogs/web-dev/fastapi"
             }
           ],
         },
@@ -68,7 +68,7 @@ export const sidebar = {
   "/photos/": [
     {
       text: "影像作品",
-      items: [{ text: "上海时刻", link: "/photos/上海时刻" }],
+      items: [{ text: "上海时刻", link: "/photos/shanghai-moments" }],
     },
   ],
 };

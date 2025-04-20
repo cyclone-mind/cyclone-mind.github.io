@@ -1,10 +1,11 @@
 ---
 outline: deep
+titile: JS逆向之招标公告搜索引擎
 # JavaScript 逆向  JS逆向之招标公告搜索引擎
 
 ---
 
-# JS逆向之招标公告搜索引擎
+# {{ $frontmatter.title }}
 
 JS 逆向（JavaScript Reverse Engineering）指通过分析网页中 JavaScript 代码的加密逻辑，还原数据请求的加密参数生成过程。它是爬虫开发中绕过反爬机制的核心技术，常用于处理以下场景：
 

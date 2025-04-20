@@ -1,4 +1,11 @@
-# 发布 npm 到 github pages
+---
+title: 发布 npm 到 github pages
+date: 2024-03-12
+tags: [GitHub, npm, 前端]
+author: shouyu
+---
+
+# {{ $frontmatter.title }}
 
 ## 打包
 
@@ -128,4 +135,4 @@ always-auth=true
 
 这里的 _authToken 是使用者自己的，在 Settings -> Developer Settings -> Personal acess tokens -> Tokens(classic) -> Generate new token -> Generate new token(classic) -> 勾选上与 package 有关的选项即可得到_authToken>。
 
-然后就可以正常 `npm install` 啦
+然后就可以正常 `npm install` 啦 

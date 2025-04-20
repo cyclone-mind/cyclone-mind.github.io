@@ -4,24 +4,32 @@ layout: home
 
 hero:
   name: "Shouyu"
-  text: "Shouyu's Journey"
-  tagline: 'A ✦ Full-Stack Dev ✦ GISer at Shanghai Normal University Turning caffeine into code since 2023.'
+  text: "守宇的奇妙旅程"
+  tagline: '对什么都有点兴趣'
 
   actions:
     - theme: brand
-      text: About Me
+      text: 关于
       link: /about
     - theme: alt
       text: 随便看看
-      link: /blogs/JS逆向/JS逆向-入门指南
+      link: /blogs/js-reverse/js-reverse-guide
 
 features:
-  - title: Feature A
-    details: In the Features section, list any number of features after the Hero section.
-  - title: Feature B
-    details: Configure features in the frontmatter. Provide an icon (emoji or image) for each feature. 
-  - title: Feature C
-    details: Optionally configure description, intrinsic size, and dark/light theme appearances.
+  - icon: 📝
+    title: 生活随笔
+    details: 记录日常思考、阅读感悟和生活点滴，分享我看世界的独特视角和成长历程。
+    link: /blogs/essays
+    
+  - icon: 🛠️
+    title: 效率工具
+    details: 推荐那些让我工作和学习事半功倍的神器，包括开发工具、效率应用和实用脚本。
+    link: /tools/multi-platform
+    
+  - icon: 🚀
+    title: 个人项目
+    details: 展示我的开源作品和个人项目，记录从构思到实现的全过程，分享技术选型和实现细节。
+    link: /projects/my-projects
 
 ---
 

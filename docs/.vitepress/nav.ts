@@ -1,20 +1,20 @@
 export const nav = [
-    { text: 'Home', link: '/' },
-    { text: 'About', link: '/about' },
-    { text: 'Experience', link: '/experience' },
+    { text: '主页', link: '/' },
+    { text: '关于', link: '/about' },
+    { text: '经历', link: '/experience' },
     {
-        text: 'Blogs',
+        text: '博客',
         items: [
-            {text: 'JS 逆向', link: '/blogs/JS逆向/JS逆向-入门指南'},
-            {text: 'github', link: '/blogs/github/发布 npm 到 github pages'},
-            {text: 'Web 开发', link: '/blogs/Web 开发/配置WSL2开发环境'},
+            {text: 'JS 逆向', link: '/blogs/js-reverse/js-reverse-guide'},
+            {text: 'GitHub', link: '/blogs/github/publish-npm-to-github-pages'},
+            {text: 'Web 开发', link: '/blogs/web-dev/setup-wsl2-dev-environment'},
         ]
     },
-    { text: 'Projects', link: '/projects/我的项目' },
-    { text: 'Contact', link: '/contact' },
-    { text: 'Photos',
+    { text: '项目', link: '/projects/my-projects' },
+    { text: '联系', link: '/contact' },
+    { text: '照片',
         items: [
-            { text: 'Shanghai Moments', link: '/photos/上海时刻' }
+            { text: '上海时刻', link: '/photos/shanghai-moments' }
         ]
     }
   ]
