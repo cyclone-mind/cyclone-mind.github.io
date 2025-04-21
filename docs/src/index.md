@@ -30,6 +30,5 @@ features:
     title: 个人项目
     details: 展示我的开源作品和个人项目，记录从构思到实现的全过程，分享技术选型和实现细节。
     link: /projects/my-projects
-
 ---
 

@@ -23,7 +23,7 @@ title: 多平台软件
 - **平台**: Windows, macOS, Linux
 - **官网**: [https://github.com/Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
 
-## MyDockFinder
+## 桌面美化工具 MyDockFinder
 
 - **功能**: 在 Windows 上模拟 macOS Dock 和 Finder 的工具。
 - **特点**:
@@ -37,7 +37,7 @@ title: 多平台软件
 - **平台**: Windows 10/11 (主要通过 Steam 发布)
 - **官网**: [https://www.mydockfinder.com/](https://www.mydockfinder.com/)
 
-## Typora
+## Markdown 编辑器 Typora
 
 - **功能**: 极简主义的 Markdown 编辑器。
 - **特点**:
@@ -47,7 +47,7 @@ title: 多平台软件
 - **平台**: Windows, macOS, Linux
 - **官网**: [https://typora.io/](https://typora.io/)
 
-## Snipaste
+## 截图 贴图 Snipaste
 
 - **功能**: 强大的截图 + 贴图工具。
 - **特点**:
