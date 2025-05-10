@@ -19,7 +19,10 @@ export const sidebar = {
           text: "JS逆向",
           collapsed: false,
           items: [
-            { text: "JS逆向-入门指南", link: "/blogs/js-reverse/js-reverse-guide" },
+            {
+              text: "JS逆向-入门指南",
+              link: "/blogs/js-reverse/js-reverse-guide",
+            },
             {
               text: "JS逆向-某招标公告搜索引擎",
               link: "/blogs/js-reverse/js-reverse-bidding-search-engine",
@@ -29,13 +32,13 @@ export const sidebar = {
               link: "/blogs/js-reverse/js-reverse-public-policy-platform",
             },
             {
-              text:"JS逆向-某电子税务局",
-              link:"/blogs/js-reverse/js-reverse-e-tax-bureau"
+              text: "JS逆向-某电子税务局",
+              link: "/blogs/js-reverse/js-reverse-e-tax-bureau",
             },
             {
-              text:"JS逆向之某日漫网站",
-              link:"/blogs/js-reverse/js-reverse-manga-website"
-            }
+              text: "JS逆向之某日漫网站",
+              link: "/blogs/js-reverse/js-reverse-manga-website",
+            },
           ],
         },
         {
@@ -52,14 +55,18 @@ export const sidebar = {
           text: "Web 开发",
           collapsed: false,
           items: [
-            { 
-              text: "配置 WSL2 开发环境", 
-              link: "/blogs/web-dev/setup-wsl2-dev-environment" 
+            {
+              text: "配置 WSL2 开发环境",
+              link: "/blogs/web-dev/setup-wsl2-dev-environment",
             },
             {
-              text:"FastAPI",
-              link:"/blogs/web-dev/fastapi"
-            }
+              text: "FastAPI",
+              link: "/blogs/web-dev/fastapi",
+            },
+            {
+              text: "Python f-string 技巧",
+              link: "/blogs/web-dev/python-f-string-tricks",
+            },
           ],
         },
       ],
