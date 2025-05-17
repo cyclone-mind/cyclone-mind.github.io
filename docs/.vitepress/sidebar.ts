@@ -69,6 +69,16 @@ export const sidebar = {
             },
           ],
         },
+        {
+          text: "算法与数据结构",
+          collapsed: false,
+          items: [
+            {
+              text: "代码随想录 数组：数组理论基础",
+              link: "/blogs/algorithm-notes/数组理论基础",
+            },
+          ],
+        },
       ],
     },
   ],
