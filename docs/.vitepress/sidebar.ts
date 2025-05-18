@@ -74,6 +74,10 @@ export const sidebar = {
           collapsed: false,
           items: [
             {
+              text: "系列指南",
+              link: "/blogs/algorithm-notes/",
+            },
+            {
               text: "数组理论基础",
               link: "/blogs/algorithm-notes/数组理论基础",
             },
@@ -133,6 +137,18 @@ export const sidebar = {
               text: "140. 环形链表",
               link: "/blogs/algorithm-notes/代码随想录 链表 140 环形链表",
             },
+          ],
+        },
+        {
+          text: "C++ 系列（cherno）",
+          collapsed: false,
+          items: [
+            { text: "系列指南", link: "/blogs/C++/" },
+            {
+              text: "Visual Studio C++ 项目最佳设置指南",
+              link: "/blogs/C++/Visual Studio C++ 项目最佳设置指南",
+            },
+            // ...后续更多笔记
           ],
         },
       ],
