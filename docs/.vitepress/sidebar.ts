@@ -70,12 +70,68 @@ export const sidebar = {
           ],
         },
         {
-          text: "算法与数据结构",
+          text: "数据结构与算法（代码随想录）",
           collapsed: false,
           items: [
             {
-              text: "代码随想录 数组：数组理论基础",
+              text: "数组理论基础",
               link: "/blogs/algorithm-notes/数组理论基础",
+            },
+            {
+              text: "704. 二分查找",
+              link: "/blogs/algorithm-notes/代码随想录 704. 二分查找",
+            },
+            {
+              text: "27. 移除元素",
+              link: "/blogs/algorithm-notes/代码随想录 数组 27 移除元素",
+            },
+            {
+              text: "997. 有序数组的平方",
+              link: "/blogs/algorithm-notes/代码随想录 数组：997. 有序数组的平方",
+            },
+            {
+              text: "209. 长度最小的子数组",
+              link: "/blogs/algorithm-notes/代码随想录 数组 209.长度最小的子数组",
+            },
+            {
+              text: "59. 螺旋矩阵",
+              link: "/blogs/algorithm-notes/代码随想录 数组 59 螺旋矩阵",
+            },
+            {
+              text: "54. 区间和",
+              link: "/blogs/algorithm-notes/代码随想录 数组 54区间和",
+            },
+            {
+              text: "44. 开发商购买土地",
+              link: "/blogs/algorithm-notes/代码随想录 数组 44 开发商购买土地",
+            },
+            {
+              text: "203. 移除链表元素",
+              link: "/blogs/algorithm-notes/代码随想录 链表 203 移除链表元素",
+            },
+            {
+              text: "707. 设计链表",
+              link: "/blogs/algorithm-notes/代码随想录 链表 707 设计链表",
+            },
+            {
+              text: "206. 翻转链表",
+              link: "/blogs/algorithm-notes/代码随想录 链表 206 翻转链表",
+            },
+            {
+              text: "24. 两两交换链表中的节点",
+              link: "/blogs/algorithm-notes/代码随想录 链表 24 两两交换链表中的节点",
+            },
+            {
+              text: "19. 删除链表的倒数第N个节点",
+              link: "/blogs/algorithm-notes/代码随想录 链表 19 删除链表的倒数第N个节点.",
+            },
+            {
+              text: "160. 链表相交",
+              link: "/blogs/algorithm-notes/代码随想录 链表 160 链表相交",
+            },
+            {
+              text: "140. 环形链表",
+              link: "/blogs/algorithm-notes/代码随想录 链表 140 环形链表",
             },
           ],
         },
