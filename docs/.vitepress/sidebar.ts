@@ -17,7 +17,7 @@ export const sidebar = {
       items: [
         {
           text: "JS逆向",
-          collapsed: false,
+          collapsed: true,
           items: [
             {
               text: "JS逆向-入门指南",
@@ -43,7 +43,7 @@ export const sidebar = {
         },
         {
           text: "github",
-          collapsed: false,
+          collapsed: true,
           items: [
             {
               text: "发布 npm 到 github pages",
@@ -53,7 +53,7 @@ export const sidebar = {
         },
         {
           text: "Web 开发",
-          collapsed: false,
+          collapsed: true,
           items: [
             {
               text: "配置 WSL2 开发环境",
@@ -71,7 +71,7 @@ export const sidebar = {
         },
         {
           text: "数据结构与算法（代码随想录）",
-          collapsed: false,
+          collapsed: true,
           items: [
             {
               text: "系列指南",
@@ -221,12 +221,24 @@ export const sidebar = {
         },
         {
           text: "C++ 系列（cherno）",
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: "系列指南", link: "/blogs/C++/" },
             {
               text: "Visual Studio C++ 项目最佳设置指南",
               link: "/blogs/C++/Visual Studio C++ 项目最佳设置指南",
+            },
+            // ...后续更多笔记
+          ],
+        },
+        {
+          text: "文献阅读",
+          collapsed: true,
+          items: [
+            { text: "系列指南", link: "/blogs/essays/" },
+            {
+              text: "野火PM2.5在多个国家和地区引发的呼吸道风险",
+              link: "/blogs/essays/野火导致的PM2.5引发呼吸道风险",
             },
             // ...后续更多笔记
           ],

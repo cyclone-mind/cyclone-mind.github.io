@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+
 import { sidebar } from "./sidebar";
 import { nav } from "./nav";
 
@@ -6,7 +7,9 @@ import { nav } from "./nav";
 export default defineConfig({
   base: "/",
   title: "Shouyu",
-
+  markdown: {
+    math: true
+  },
   description: "Shouyu's Journey",
   themeConfig: {
     logo: "/favicon.png",
