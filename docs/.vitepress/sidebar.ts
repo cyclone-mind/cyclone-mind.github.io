@@ -56,6 +56,10 @@ export const sidebar = {
           collapsed: true,
           items: [
             {
+              text: "Git 实战教程",
+              link: "/blogs/web-dev/git-quick-start",
+            },
+            {
               text: "配置 WSL2 开发环境",
               link: "/blogs/web-dev/setup-wsl2-dev-environment",
             },
