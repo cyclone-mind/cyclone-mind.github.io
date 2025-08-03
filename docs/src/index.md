@@ -24,7 +24,7 @@ features:
   - icon: 🛠️
     title: 推荐
     details: 推荐那些让我工作和学习事半功倍的开发工具、学习资源。
-    link: /tools/reference/
+    link: /reference/
 
   - icon: 🚀
     title: 个人项目

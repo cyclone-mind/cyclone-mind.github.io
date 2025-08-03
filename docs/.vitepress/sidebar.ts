@@ -67,6 +67,10 @@ export const sidebar = {
               text: "Python f-string 技巧",
               link: "/blogs/web-dev/python-f-string-tricks",
             },
+            {
+              text: "Docker 快速入门指南",
+              link: "/blogs/web-dev/docker-quick-start",
+            },
           ],
         },
         {
