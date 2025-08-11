@@ -672,6 +672,370 @@ export const sidebar = {
               ],
             },
             {
+              text: "贪心算法",
+              collapsed: true,
+              items: [
+                {
+                  text: "理论基础与总结",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "贪心算法理论基础",
+                      link: "/blogs/algorithm-notes/greedy/贪心算法理论基础",
+                    },
+                    {
+                      text: "贪心算法总结",
+                      link: "/blogs/algorithm-notes/greedy/贪心算法总结",
+                    },
+                  ],
+                },
+                {
+                  text: "基础贪心问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "分发饼干",
+                      link: "/blogs/algorithm-notes/greedy/分发饼干",
+                    },
+                    {
+                      text: "摆动序列",
+                      link: "/blogs/algorithm-notes/greedy/摆动序列",
+                    },
+                    {
+                      text: "最大子序和",
+                      link: "/blogs/algorithm-notes/greedy/最大子序和",
+                    },
+                  ],
+                },
+                {
+                  text: "序列问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "买卖股票的最佳时机II",
+                      link: "/blogs/algorithm-notes/greedy/买卖股票的最佳时机II",
+                    },
+                    {
+                      text: "跳跃游戏",
+                      link: "/blogs/algorithm-notes/greedy/跳跃游戏",
+                    },
+                    {
+                      text: "跳跃游戏II",
+                      link: "/blogs/algorithm-notes/greedy/跳跃游戏II",
+                    },
+                    {
+                      text: "K次取反后最大化数组和",
+                      link: "/blogs/algorithm-notes/greedy/K次取反后最大化数组和",
+                    },
+                  ],
+                },
+                {
+                  text: "两个维度权衡",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "分发糖果",
+                      link: "/blogs/algorithm-notes/greedy/分发糖果",
+                    },
+                    {
+                      text: "根据身高重建队列",
+                      link: "/blogs/algorithm-notes/greedy/根据身高重建队列",
+                    },
+                    {
+                      text: "根据身高重建队列(vector原理讲解)",
+                      link: "/blogs/algorithm-notes/greedy/根据身高重建队列(vector原理讲解)",
+                    },
+                  ],
+                },
+                {
+                  text: "区间调度问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "用最少数量的箭引爆气球",
+                      link: "/blogs/algorithm-notes/greedy/用少数量的箭引爆气球",
+                    },
+                    {
+                      text: "无重叠区间",
+                      link: "/blogs/algorithm-notes/greedy/无重叠区间",
+                    },
+                    {
+                      text: "划分字母区间",
+                      link: "/blogs/algorithm-notes/greedy/划分字母区间",
+                    },
+                    {
+                      text: "合并区间",
+                      link: "/blogs/algorithm-notes/greedy/合并区间",
+                    },
+                  ],
+                },
+                {
+                  text: "其他贪心问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "柠檬水找零",
+                      link: "/blogs/algorithm-notes/greedy/柠檬水找零",
+                    },
+                    {
+                      text: "加油站",
+                      link: "/blogs/algorithm-notes/greedy/加油站",
+                    },
+                    {
+                      text: "单调递增的数字",
+                      link: "/blogs/algorithm-notes/greedy/单调递增的数字",
+                    },
+                    {
+                      text: "监控二叉树",
+                      link: "/blogs/algorithm-notes/greedy/监控二叉树",
+                    },
+                  ],
+                },
+              ],
+            },
+            {
+              text: "动态规划",
+              collapsed: true,
+              items: [
+                {
+                  text: "理论基础与总结",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "动态规划理论基础",
+                      link: "/blogs/algorithm-notes/dynamic-programming/动态规划理论基础",
+                    },
+                    {
+                      text: "动态规划总结",
+                      link: "/blogs/algorithm-notes/dynamic-programming/动态规划总结",
+                    },
+                  ],
+                },
+                {
+                  text: "基础动态规划",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "斐波那契数",
+                      link: "/blogs/algorithm-notes/dynamic-programming/斐波那契数",
+                    },
+                    {
+                      text: "爬楼梯",
+                      link: "/blogs/algorithm-notes/dynamic-programming/爬楼梯",
+                    },
+                    {
+                      text: "使用最小花费爬楼梯",
+                      link: "/blogs/algorithm-notes/dynamic-programming/使用最小花费爬楼梯",
+                    },
+                    {
+                      text: "不同路径",
+                      link: "/blogs/algorithm-notes/dynamic-programming/不同路径",
+                    },
+                    {
+                      text: "不同路径II",
+                      link: "/blogs/algorithm-notes/dynamic-programming/不同路径II",
+                    },
+                    {
+                      text: "整数拆分",
+                      link: "/blogs/algorithm-notes/dynamic-programming/整数拆分",
+                    },
+                    {
+                      text: "不同的二叉搜索树",
+                      link: "/blogs/algorithm-notes/dynamic-programming/不同的二叉搜索树",
+                    },
+                  ],
+                },
+                {
+                  text: "背包问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "01背包理论基础",
+                      link: "/blogs/algorithm-notes/dynamic-programming/01背包理论基础",
+                    },
+                    {
+                      text: "01背包理论基础二",
+                      link: "/blogs/algorithm-notes/dynamic-programming/01背包理论基础二",
+                    },
+                    {
+                      text: "分割等和子集",
+                      link: "/blogs/algorithm-notes/dynamic-programming/分割等和子集",
+                    },
+                    {
+                      text: "最后一块石头的重量",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最后一块石头的重量",
+                    },
+                    {
+                      text: "目标和",
+                      link: "/blogs/algorithm-notes/dynamic-programming/目标和",
+                    },
+                    {
+                      text: "一和零",
+                      link: "/blogs/algorithm-notes/dynamic-programming/一和零",
+                    },
+                    {
+                      text: "完全背包理论基础",
+                      link: "/blogs/algorithm-notes/dynamic-programming/完全背包理论基础",
+                    },
+                    {
+                      text: "零钱兑换II",
+                      link: "/blogs/algorithm-notes/dynamic-programming/零钱兑换II",
+                    },
+                    {
+                      text: "组合总和IV",
+                      link: "/blogs/algorithm-notes/dynamic-programming/组合总和IV",
+                    },
+                    {
+                      text: "爬楼梯完全背包版本",
+                      link: "/blogs/algorithm-notes/dynamic-programming/爬楼梯完全背包版本",
+                    },
+                    {
+                      text: "零钱兑换",
+                      link: "/blogs/algorithm-notes/dynamic-programming/零钱兑换",
+                    },
+                    {
+                      text: "完全平方数",
+                      link: "/blogs/algorithm-notes/dynamic-programming/完全平方数",
+                    },
+                    {
+                      text: "单词拆分",
+                      link: "/blogs/algorithm-notes/dynamic-programming/单词拆分",
+                    },
+                    {
+                      text: "多重背包理论基础",
+                      link: "/blogs/algorithm-notes/dynamic-programming/多重背包理论基础",
+                    },
+                    {
+                      text: "背包总结",
+                      link: "/blogs/algorithm-notes/dynamic-programming/背包总结",
+                    },
+                  ],
+                },
+                {
+                  text: "打家劫舍系列",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "打家劫舍",
+                      link: "/blogs/algorithm-notes/dynamic-programming/打家劫舍",
+                    },
+                    {
+                      text: "打家劫舍II",
+                      link: "/blogs/algorithm-notes/dynamic-programming/打家劫舍II",
+                    },
+                    {
+                      text: "打家劫舍III",
+                      link: "/blogs/algorithm-notes/dynamic-programming/打家劫舍III",
+                    },
+                  ],
+                },
+                {
+                  text: "股票问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "买卖股票最佳时机",
+                      link: "/blogs/algorithm-notes/dynamic-programming/买卖股票最佳时机",
+                    },
+                    {
+                      text: "买卖股票最佳时机II",
+                      link: "/blogs/algorithm-notes/dynamic-programming/买卖股票最佳时机II",
+                    },
+                    {
+                      text: "买卖股票的最佳时机III",
+                      link: "/blogs/algorithm-notes/dynamic-programming/买卖股票的最佳时机III",
+                    },
+                    {
+                      text: "买卖股票的最佳时机IV",
+                      link: "/blogs/algorithm-notes/dynamic-programming/买卖股票的最佳时机IV",
+                    },
+                    {
+                      text: "最佳买卖股票时机含冷冻期",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最佳买卖股票时机含冷冻期",
+                    },
+                    {
+                      text: "买卖股票的最佳时机含手续费",
+                      link: "/blogs/algorithm-notes/dynamic-programming/买卖股票的最佳时机含手续费",
+                    },
+                    {
+                      text: "股票问题总结",
+                      link: "/blogs/algorithm-notes/dynamic-programming/股票问题总结",
+                    },
+                  ],
+                },
+                {
+                  text: "子序列问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "最长递增子序列",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最长上升子序列",
+                    },
+                    {
+                      text: "最长连续递增序列",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最长连续递增序列",
+                    },
+                    {
+                      text: "最长重复子数组",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最长重复子数组",
+                    },
+                    {
+                      text: "最长公共子序列",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最长公共子序列",
+                    },
+                    {
+                      text: "不相交的线",
+                      link: "/blogs/algorithm-notes/dynamic-programming/不相交的线",
+                    },
+                    {
+                      text: "最大子序和",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最大子序和",
+                    },
+                  ],
+                },
+                {
+                  text: "编辑距离",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "判断子序列",
+                      link: "/blogs/algorithm-notes/dynamic-programming/判断子序列",
+                    },
+                    {
+                      text: "不同的子序列",
+                      link: "/blogs/algorithm-notes/dynamic-programming/不同的子序列",
+                    },
+                    {
+                      text: "两个字符串的删除操作",
+                      link: "/blogs/algorithm-notes/dynamic-programming/两个字符串的删除操作",
+                    },
+                    {
+                      text: "编辑距离",
+                      link: "/blogs/algorithm-notes/dynamic-programming/编辑距离",
+                    },
+                    {
+                      text: "编辑距离总结",
+                      link: "/blogs/algorithm-notes/dynamic-programming/编辑距离总结",
+                    },
+                  ],
+                },
+                {
+                  text: "回文问题",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "回文子串",
+                      link: "/blogs/algorithm-notes/dynamic-programming/回文子串",
+                    },
+                    {
+                      text: "最长回文子序列",
+                      link: "/blogs/algorithm-notes/dynamic-programming/最长回文子序列",
+                    },
+                  ],
+                },
+              ],
+            },
+            {
               text: "图论",
               collapsed: true,
               items: [

@@ -56,3 +56,13 @@ title: 多平台软件
   - 提供丰富的标注功能（矩形、椭圆、箭头、马赛克、高斯模糊、文本等）。
 - **平台**: Windows, macOS, Linux
 - **官网**: [https://www.snipaste.com/](https://www.snipaste.com/)
+
+## Treesize
+
+- **功能**：树形结构展示文件占用空间
+- **特点**：
+  - 饼图、条形图和树状图 ，可视化存储使用情况并查找占用空间
+  - 组织您的存储系统并改进您的磁盘清理设置
+  - 自动执行报告并确保审计准备就绪
+- **平台**：Windows
+- **官网**：[https://www.jam-software.com/treesize](https://www.jam-software.com/treesize)
