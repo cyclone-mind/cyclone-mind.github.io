@@ -27,3 +27,13 @@ title: 我的项目
   - 涉及多种逆向场景：登录加密、请求参数/签名算法分析 (如抖音、喜马拉雅)、反调试技术对抗 (无限 debugger) 等。
   - 提供 **Python 与 JS 交互** (如 subprocess 模块) 和 **JS Hook** 技术应用实例。
 - **链接**: [https://github.com/cyclone-mind/CrawlerWorks](https://github.com/cyclone-mind/CrawlerWorks)
+
+## AsyncTaskThreadPool
+
+- **描述**: 一个高效的 C++异步任务线程池实现，支持动态线程管理和任务调度。
+- **核心特色**:
+  - **异步任务执行**: 支持任意类型的可调用对象，使用 `std::future` 获取任务执行结果。
+  - **动态线程管理**: 根据任务负载自动调整线程数量，避免频繁创建销毁带来的性能开销。
+  - **线程安全设计**: 使用 `mutex` 和 `condition_variable` 实现高效的线程间通信。
+  - **性能优化**: 采用细粒度锁设计，减少锁竞争，任务执行时不持有队列锁。
+- **链接**: [https://github.com/cyclone-mind/AsyncTaskThreadPool](https://github.com/cyclone-mind/AsyncTaskThreadPool)
