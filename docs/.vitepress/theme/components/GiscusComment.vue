@@ -5,7 +5,7 @@
             repo="cyclone-mind/cyclone-mind.github.io"
             repoid="R_kgDOOGIHFQ"
             category="General"
-            categoryid="DIC_kwDOIN2Mes4CenDn"
+            categoryid="DIC_kwDOOGIHFc4CoTuS"
             mapping="pathname"
             term="Welcome to giscus!"
             reactionsenabled="1"
