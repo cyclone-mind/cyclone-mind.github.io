@@ -6,7 +6,7 @@
             repoid="R_kgDOOGIHFQ"
             category="General"
             categoryid="DIC_kwDOOGIHFc4CoTuS"
-            mapping="pathname"
+            mapping="title"
             term="Welcome to giscus!"
             reactionsenabled="1"
             emitmetadata="0"
