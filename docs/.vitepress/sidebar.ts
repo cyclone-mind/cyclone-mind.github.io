@@ -75,6 +75,10 @@ export const sidebar = {
               text: "Docker 快速入门指南",
               link: "/blogs/web-dev/docker-quick-start",
             },
+            {
+              text: "2023年中国移动游戏出海市场报告",
+              link: "/blogs/web-dev/China-Mobile-Game-Overseas-Market-Report-in-China",
+            },
           ],
         },
         {

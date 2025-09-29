@@ -37,3 +37,23 @@ title: 我的项目
   - **线程安全设计**: 使用 `mutex` 和 `condition_variable` 实现高效的线程间通信。
   - **性能优化**: 采用细粒度锁设计，减少锁竞争，任务执行时不持有队列锁。
 - **链接**: [https://github.com/cyclone-mind/AsyncTaskThreadPool](https://github.com/cyclone-mind/AsyncTaskThreadPool)
+
+## cyclone-HTTPServer
+
+- **描述**: 一个基于muduo库的轻量级HTTP服务框架。
+- **核心特色**:
+  - 基于 muduo 库构建，提供高效的网络编程支持。
+  - 轻量级设计，适合快速开发HTTP服务。
+- **链接**: [https://github.com/cyclone-mind/cyclone-HTTPServer](https://github.com/cyclone-mind/cyclone-HTTPServer)
+
+## AsyncLog_CloudStorage
+
+- **描述**: 一个高性能异步日志系统，支持云存储备份功能。
+- **核心特色**:
+  - 异步日志记录：使用专用工作线程进行非阻塞日志操作。
+  - 线程池管理：可配置线程池大小，高效利用线程资源。
+  - 云存储备份：自动将日志备份到云存储服务。
+  - 压缩支持：使用 Zstandard 压缩算法优化日志存储。
+  - JSON 配置：灵活的 JSON 格式配置文件。
+  - Libevent 集成：高性能事件驱动架构。
+- **链接**: [https://github.com/cyclone-mind/AsyncLog_CloudStorage](https://github.com/cyclone-mind/AsyncLog_CloudStorage)
