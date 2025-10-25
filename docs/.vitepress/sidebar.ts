@@ -324,6 +324,20 @@ export const sidebar = {
                   ],
                 },
                 {
+                  text: "KMP",
+                  collapsed: true,
+                  items: [
+                    {
+                      text: "实现strStr()函数",
+                      link: "/blogs/algorithm-notes/string/实现strStr()函数",
+                    },
+                    {
+                      text: "重复的子字符串",
+                      link: "/blogs/algorithm-notes/string/重复的子字符串",
+                    },
+                  ],
+                },
+                {
                   text: "总结",
                   link: "/blogs/algorithm-notes/string/总结",
                 },
@@ -365,8 +379,13 @@ export const sidebar = {
                     },
                     {
                       text: "逆波兰表达式",
-                      link: "/blogs/algorithm-notes/stack-queue/逆波兰表达式.",
+                      link: "/blogs/algorithm-notes/stack-queue/逆波兰表达式",
                     },
+                    {
+                      text: "简化路径",
+                      link: "/blogs/algorithm-notes/stack-queue/简化路径",
+                    },
+                    
                   ],
                 },
                 {
